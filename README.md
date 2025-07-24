@@ -41,8 +41,12 @@ Sou estudante dedicado e curioso por novas tecnologias. Estou sempre em busca de
 ---
 
 ## 📫 Contato
+
 - [LinkedIn](https://www.linkedin.com/in/alexandre-louren%C3%A7o-793a02118/)
 - Email: alexandremarqueslourencoadv@gmail.com
+- WhatsApp: (91) 99143-7878
+
+> Fique à vontade para entrar em contato por e-mail ou WhatsApp para colaborações, networking ou oportunidades de estágio!
 
 ---
 
