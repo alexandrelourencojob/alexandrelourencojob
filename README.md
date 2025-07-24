@@ -8,6 +8,24 @@
 
 ---
 
+## 🚀 Tecnologias e Ferramentas
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-e44d26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JAVASCRIPT-f7df1e?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/FIGMA-a259ff?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHOTOSHOP-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ILLUSTRATOR-ff9a00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OBSIDIAN-483699?style=for-the-badge&logo=obsidian&logoColor=white"/>
+</p>
+
+💡 **Soft Skills:** Proatividade, Resolução de problemas, aprendizado contínuo e Comunicação.
+
+---
+
 ## 💡 Sobre mim
 
 Sou estudante dedicado e curioso por novas tecnologias. Estou sempre em busca de desafios, aprimorando minhas habilidades em desenvolvimento web e programação. Meu objetivo é me tornar um desenvolvedor completo, contribuindo para projetos inovadores.
